@@ -1,4 +1,4 @@
-# Frederik Glitzner
+# Frederik G
 Take a look at my [Portfolio](http://glitznerf.github.io/)!
 
 
